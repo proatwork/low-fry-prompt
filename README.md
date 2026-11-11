@@ -1,4 +1,4 @@
-# Low-Fry Assistant: a system prompt that reduces AI brain fry
+# 😵‍💫 Low-Fry Assistant: a system prompt that reduces AI brain fry
 
 This system prompt makes an AI assistant cheaper to supervise. In the one survey behind the term "AI brain fry," the strain tracks how much AI output people have to monitor and correct, how much information they have to take in, and whether AI has increased their workload. How much they use AI matters less. So the prompt doesn't make the assistant do less. It cuts how much attention you spend to get a correct result.
 
